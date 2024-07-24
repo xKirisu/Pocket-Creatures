@@ -1,0 +1,25 @@
+5;Roosty;12;11;10;11;11;500;500;Fire;0;20;1;6;False;NULL;NULL;Body Slam;NULL;Flynky
+1;Drillno;10;9;10;10;11;600;600;Rock;0;4;1;8;False;NULL;Perfect Cut;Body Slam;NULL;None
+5;Oinker;2;6;3;4;4;400;400;Fire;0;20;1;4;False;Conflagration;Flamethrower;NULL;NULL;None
+5;Stoneley;5;11;8;5;8;800;800;Rock;0;20;1;10;False;Perfect Cut;Body Slam;NULL;NULL;Horkull
+5;Shelly;10;10;10;9;9;500;500;Water;0;20;1;14;False;NULL;Perfect Cut;NULL;NULL;Ghosty
+15;Ghosty;18;21;21;18;19;700;700;Water;0;60;1;4;False;NULL;Perfect Cut;NULL;NULL;None
+15;Ghosty;18;21;21;18;19;700;700;Water;0;60;1;9;False;NULL;Perfect Cut;NULL;NULL;None
+5;Ducly;5;8;5;3;4;600;600;Water;0;20;1;5;False;Flood;Body Slam;Water Pump;NULL;None
+2;Sleedar;5;6;6;4;3;600;600;Flying;0;8;1;11;False;Bird Dash;Areal Cut;Body Slam;Pick;None
+3;Rumbee;7;10;7;5;4;400;400;Grass;0;12;1;0;False;NULL;Perfect Cut;NULL;NULL;None
+3;Trunky;11;9;9;11;10;500;500;Grass;0;12;1;3;False;NULL;Power of Nature;NULL;NULL;Shroomy
+4;Rootie;6;7;6;2;6;500;500;Grass;0;16;1;7;False;Body Slam;Power of Nature;Root Knock;NULL;Planty
+5;Slummy;3;8;7;2;4;500;500;Water;0;20;1;12;False;NULL;Water Pump;NULL;NULL;None
+14;Planty;6;10;8;4;6;600;600;Grass;0;56;1;2;False;Body Slam;Power of Nature;Root Knock;NULL;None
+4;Roosty;10;9;10;11;10;500;500;Fire;0;16;1;1;False;Conflagration;Perfect Cut;NULL;NULL;Flynky
+30;Shroomy;18;12;12;12;12;700;700;Grass;0;120;1;7;False;NULL;Power of Nature;NULL;NULL;None
+4;Rootie;3;5;4;5;4;500;500;Grass;0;16;1;4;False;NULL;Root Knock;NULL;NULL;Planty
+4;Speely;5;7;9;3;6;300;300;Normal;0;16;1;15;False;Perfect Cut;Body Slam;NULL;NULL;None
+4;Shelly;10;10;11;11;9;500;500;Water;0;16;1;15;False;Water Pump;Perfect Cut;NULL;NULL;Ghosty
+14;Horkull;10;16;14;8;10;600;600;Rock;0;56;1;12;False;Perfect Cut;Body Slam;NULL;NULL;None
+3;Speely;7;9;9;5;7;300;300;Normal;0;12;1;3;False;NULL;Perfect Cut;NULL;NULL;None
+4;Zemee;5;8;6;3;6;400;400;Normal;0;16;1;4;False;Body Slam;Perfect Cut;NULL;NULL;None
+4;Toto;5;8;6;3;6;400;400;Normal;0;16;1;11;False;Body Slam;Perfect Cut;NULL;NULL;None
+22;Flynky;16;16;9;9;16;600;600;Fire;0;88;1;13;False;Body Slam;NULL;NULL;NULL;None
+2;Sleedar;4;6;8;3;6;600;600;Flying;0;8;1;12;False;Body Slam;Areal Cut;Perfect Cut;NULL;None

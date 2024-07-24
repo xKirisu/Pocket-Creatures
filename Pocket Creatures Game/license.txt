@@ -1,7 +1,3 @@
-# Pocket-Creatures
-
-
-
 Creatures was downloaded from:
 https://pixelfrog-assets.itch.io/pixel-adventure-2
 by linense: https://creativecommons.org/publicdomain/zero/1.0/
