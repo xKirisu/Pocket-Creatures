@@ -1,7 +1,10 @@
 # Pocket-Creatures
 
+Game can be launched via the "main.py" file
 
+Code still requires a few qualitative corrections
 
+# Main Licenses
 Creatures was downloaded from:
 https://pixelfrog-assets.itch.io/pixel-adventure-2
 by linense: https://creativecommons.org/publicdomain/zero/1.0/
