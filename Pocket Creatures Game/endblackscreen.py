@@ -28,7 +28,6 @@ class EndScreen(GameState):
 
         self.end_text = [self.complete_dex_info_1, self.complete_dex_info_2, self.project, self.proggrammer, self.textures1, self.textures2, self.music, self.startmenumusic, self.thanksfp, self.theend]
     
-        self.game.ambient_sound.play("ENDGAME", 0.05)
     def events(self, events):
         for event in events:
             if event.type == pygame.QUIT:
